@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -middepth 1  -name "*js" type -f -delete
